@@ -1,4 +1,4 @@
-# SQL-Ad-Hoc-Insights-AtliQ-Hardware
+# SQL-Business-Insights-AtliQ-Hardware
 ---
 ### Problem Statement:
 ---
